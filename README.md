@@ -1,4 +1,10 @@
-
+<!--
+  GITHUB PROFILE README — Jarren James Parungao
+  ----------------------------------------------
+  This file must be saved as README.md inside a repository named EXACTLY
+  "jarrenjames13" (i.e. github.com/jarrenjames13/jarrenjames13) for GitHub
+  to display it on your profile page.
+-->
 
 <div align="center">
 
@@ -45,6 +51,7 @@ Backend engineering is where I spend most of my time — designing clean APIs, b
 **Frameworks & Technologies**
 
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask">
 <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white" alt="Express.js">
 <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT">
 
@@ -82,14 +89,20 @@ I build responsive, accessible interfaces that pair well with the backends I des
 **Frameworks & Styling**
 
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux">
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js">
 <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+<img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white" alt="shadcn/ui">
+
+**State Management**
+
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux">
+<img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="TanStack Query">
+<img src="https://img.shields.io/badge/Zustand-433E38?style=flat-square" alt="Zustand">
 
 **Also experienced with:**
 
 - Responsive, mobile-first layouts
 - Modern, accessible UI/UX principles
-- Server-state management with TanStack Query (React Query)
 
 **What I Build**
 
@@ -153,6 +166,7 @@ Production-ready mobile applications that integrate seamlessly with backend APIs
 <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white" alt="NGINX">
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins">
 
 - Cloud deployment & infrastructure management
 - CI/CD pipeline automation
@@ -184,12 +198,12 @@ Production-ready mobile applications that integrate seamlessly with backend APIs
 | Category | Stack |
 |---|---|
 | **Languages** | <img src="https://skillicons.dev/icons?i=py,js,ts,php&theme=dark" alt="Languages"> |
-| **Frameworks** | <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" alt="Frameworks"> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,react,redux,tailwind&theme=dark" alt="Frontend"> |
+| **Frameworks** | <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&theme=dark" alt="Frameworks"> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,tailwind&theme=dark" alt="Frontend"> |
 | **Mobile** | <img src="https://skillicons.dev/icons?i=react,ts,androidstudio,apple&theme=dark" alt="Mobile"> |
 | **Databases** | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase&theme=dark" alt="Databases"> |
 | **Cloud** | <img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="Cloud"> |
-| **DevOps** | <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,nginx,redis&theme=dark" alt="DevOps"> |
+| **DevOps** | <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,jenkins,nginx,redis&theme=dark" alt="DevOps"> |
 | **Tools** | <img src="https://skillicons.dev/icons?i=vscode,postman,npm&theme=dark" alt="Tools"> |
 | **Operating Systems** | <img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Operating Systems"> |
 
@@ -224,7 +238,7 @@ Production-ready mobile applications that integrate seamlessly with backend APIs
 | **Monheim OS (Office Sales System)** | Internal e-commerce platform for Monheim Distribution Inc., featuring a cart and ordering system plus a role-based dashboard with order tracking, approval workflows, and order history. | `React` `JavaScript` `Redux` `Tailwind CSS` `Node.js` `Express` `MSSQL` | [Live Demo](https://os.monheim.app/login) |
 | **AURORA LMS** | Role-based Learning Management System (Student / Teacher / Admin) with AI-powered module generation for enhanced learning, plus certificate management and exam/assessment tooling. | `JavaScript` `HTML` `CSS` `Bootstrap` `FastAPI` `MySQL` `LLM API` | [Live Demo](https://aurora.amasystem.net/) |
 | **AURORA LMS — Student Mobile App** | Companion mobile app for AURORA LMS, built for student use — read modules and complete activities, quizzes, and exams on the go. Includes assessment security that mirrors the web app: navigating away from the app during an exam forces automatic submission. | `React Native` `Expo` `TypeScript` `REST API` | [Repo](https://github.com/jarrenjames13/rn-lms) |
-| **Wonka's Photobooth** | Themed web photobooth app with a live camera capture window composited inside a changeable, transparent-cutout border image. Captured photos upload to S3 and are retrieved by guests via a scannable QR code in the Golden Gallery. | `JavaScript` `HTML` `CSS` `FastAPI` `SQLite` `AWS S3` | [Repo](https://github.com/jarrenjames13/cacf_ama_photobooth)  |
+| **Wonka's Photobooth** | Themed web photobooth app with a live camera capture window composited inside a changeable, transparent-cutout border image. Captured photos upload to S3 and are retrieved by guests via a scannable QR code in the Golden Gallery. | `JavaScript` `HTML` `CSS` `FastAPI` `SQLite` `AWS S3` | [Repo](https://github.com/jarrenjames13/cacf_ama_photobooth) |
 
 ---
 
