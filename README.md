@@ -1,10 +1,4 @@
-<!--
-  GITHUB PROFILE README — Jarren James Parungao
-  ----------------------------------------------
-  This file must be saved as README.md inside a repository named EXACTLY
-  "jarrenjames13" (i.e. github.com/jarrenjames13/jarrenjames13) for GitHub
-  to display it on your profile page.
--->
+
 
 <div align="center">
 
