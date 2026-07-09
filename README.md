@@ -213,7 +213,7 @@ Production-ready mobile applications that integrate seamlessly with backend APIs
 <img src="https://streak-stats.demolab.com/?user=jarrenjames13&theme=dark&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" width="49%" alt="GitHub Streak">
 
 <img src="https://github-readme-stats-jarrenjames13s-projects.vercel.app/api/top-langs/?username=jarrenjames13&layout=compact&theme=dark&hide_border=true&title_color=6366F1&text_color=c9d1d9&bg_color=0D1117&langs_count=8&cache_seconds=86400&v=2" width="49%" alt="Top Languages">
-<img src="https://github-profile-trophy.vercel.app/?username=jarrenjames13&theme=onedark&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" width="49%" alt="GitHub Trophies">
+<img src="https://raw.githubusercontent.com/jarrenjames13/jarrenjames13/main/github-metrics.svg" width="49%" alt="GitHub Metrics">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jarrenjames13&theme=react-dark&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF" width="98%" alt="Activity Graph">
 
